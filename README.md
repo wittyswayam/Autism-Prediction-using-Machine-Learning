@@ -11,9 +11,8 @@ This project focuses on building machine learning models to predict autism spect
 
 ⚙️ Installation & Dependencies
 
-Clone the repository and install dependencies:
+Install dependencies:
 
-git clone https://github.com/wittyswayam/Autism-Prediction-ML.git
 cd Autism-Prediction-ML
 pip install -r requirements.txt
 
